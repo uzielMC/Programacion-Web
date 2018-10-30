@@ -1,0 +1,165 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.menu-container {
+  color: #fff;
+  background-color: brown;  /* Blue */
+  padding: 20px 0;
+  display: flex;
+  justify-content: flex-end;
+  position:fixed;
+  left:0;
+  top: 0;
+  right:0;
+}
+
+.menu {
+  width: 900px;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 25px;
+}
+.links{
+  /*border: 1px solid #fff;*/
+  display: flex;
+}
+.menu-elements{
+  margin-top: 7px;
+  margin-left: 25px;
+  text-decoration:none;
+  color: white
+}
+.img{
+    margin-left: 25px
+}
+.img1{
+    width: 1350px;
+    height: 630px;
+    display: flex;
+    margin-top: 70px;
+}
+.inicio-content
+{
+    width: 1200;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.inicio-1
+{
+    width: auto;
+    height: auto;
+    display: flex;
+    color: white;
+    flex-wrap: wrap;
+    font-family: 'Lobster', cursive;
+    justify-content:center;
+    text-align: center;
+    margin-top: 220px;
+}
+.font-1{
+    margin-top: 20px;
+    font-size: 80px;
+    display: flex;
+    justify-content:center;
+    text-align: center;
+}
+.font-2{
+    margin-top: 20px;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    margin-left: 55px;
+    margin-right: 57px;
+}
+.servicios{
+    margin-top: 300px;
+    background-color: lightgoldenrodyellow;
+    width: 1200;
+    height: 700px;
+    justify-content: center;
+}
+.img-2{
+    width: 1000px;
+    height: 300px;
+    margin-top: 40px;
+    margin-left: 175px;
+    float: left;
+}
+.font-3{
+    padding: 20px;
+    color: darkred;
+    flex-wrap: wrap;
+    font-family: 'Lobster', cursive;
+    justify-content:center;
+    font-size: 70px;
+    text-align: center;
+}
+.texto-1{
+    color: darkred;
+    flex-wrap: wrap;
+    font-family: 'Noto Serif', serif;
+    margin-top: 15px;
+    font-size: 25px;
+    margin-left: 220px;
+    text-align: justify;
+}
+.empresa{
+    margin-top: 20px;
+    background-color: dark;
+    width: 1200;
+    height: 580px;
+    justify-content:flex-end;
+}
+.font-4{
+    color: brown;
+    flex-wrap: wrap;
+    font-family: 'Lobster', cursive;
+    justify-content:center;
+    font-size: 70px;
+    text-align: center;
+}
+.texto-2
+{
+    color: brown;
+    width: 900px;
+    flex-wrap: wrap;
+    font-family: 'Noto Serif', serif;
+    margin-top: 40px;
+    font-size: 25px;
+    margin-left: 200px;
+    text-align: justify;
+}
+.contacto{
+    margin-top: 20px;
+    background-color: lightgoldenrodyellow;
+    width: 12000;
+    height: 640px;
+}
+.font-5{
+    color: darkred;
+    font-family: 'Lobster', cursive;
+    justify-content:center;
+    font-size: 70px;
+    text-align: center;
+}
+.texto-3
+{
+    color: brown;
+    width: 900px;
+    flex-wrap: wrap;
+    font-family: 'Noto Serif', serif;
+    margin-top: 40px;
+    font-size: 25px;
+    margin-left: 530px;
+}
+
+
+
+
+
+
